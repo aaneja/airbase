@@ -3,7 +3,7 @@
 
     <groupId>com.github.zacblanco.airbase</groupId>
     <artifactId>airbase-root</artifactId>
-    <version>upgradeToJava17-SNAPSHOT</version>
+    <version>upgradeToJava21-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>airbase-root</name>

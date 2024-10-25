@@ -5,7 +5,7 @@
     <parent>
         <groupId>com.github.zacblanco.airbase</groupId>
         <artifactId>airbase-root</artifactId>
-        <version>upgradeToJava17-SNAPSHOT</version>
+        <version>upgradeToJava21-SNAPSHOT</version>
     </parent>
 
     <artifactId>airbase-policy</artifactId>
